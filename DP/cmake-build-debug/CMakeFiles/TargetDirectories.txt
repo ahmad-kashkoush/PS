@@ -1,0 +1,3 @@
+/mnt/D/Technical Learning/CPPPractise Folder/PS/cmake-build-debug/CMakeFiles/PS.dir
+/mnt/D/Technical Learning/CPPPractise Folder/PS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/D/Technical Learning/CPPPractise Folder/PS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
