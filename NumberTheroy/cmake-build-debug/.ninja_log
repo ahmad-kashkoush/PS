@@ -1,0 +1,9 @@
+# ninja log v5
+1	1404	1680822012710567300	CMakeFiles/NumberTheroy.dir/B_-_Count_on_Cantor.cpp.o	32bfa56cd4441c2a
+1	1523	1680865168624790400	CMakeFiles/NumberTheroy.dir/C_-_Coconuts,_Revisited.cpp.o	6560972b55362088
+1523	1648	1680865168748230400	NumberTheroy	cbb9ff12b5df4735
+1	1454	1680821132752664500	CMakeFiles/NumberTheroy.dir/A_-_Garden.cpp.o	1f6be9780594ae1d
+1	23	1680865719802412600	build.ninja	752287af6780274e
+1326	1419	7019292184903905	NumberTheroy.exe	61111eb8ee722cd
+1	1372	1680865690258121300	CMakeFiles/NumberTheroy.dir/K_-_GCD.cpp.o	7f8ed533b6270147
+1	197	1680865720370607500	NumberTheroy	7f0f3a062d3ca85e

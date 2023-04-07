@@ -1,0 +1,3 @@
+/home/ak/Desktop/Technical Learning/CPPPractise Folder/PS/NumberTheroy/cmake-build-debug/CMakeFiles/NumberTheroy.dir
+/home/ak/Desktop/Technical Learning/CPPPractise Folder/PS/NumberTheroy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ak/Desktop/Technical Learning/CPPPractise Folder/PS/NumberTheroy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
