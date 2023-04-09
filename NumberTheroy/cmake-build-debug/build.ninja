@@ -49,8 +49,8 @@ cmake_ninja_workdir = /home/ak/Desktop/Technical$ Learning/CPPPractise$ Folder/P
 
 build cmake_object_order_depends_target_NumberTheroy: phony || CMakeFiles/NumberTheroy.dir
 
-build CMakeFiles/NumberTheroy.dir/K_-_GCD.cpp.o: CXX_COMPILER__NumberTheroy_Debug /home/ak/Desktop/Technical$ Learning/CPPPractise$ Folder/PS/NumberTheroy/K$ -$ GCD.cpp || cmake_object_order_depends_target_NumberTheroy
-  DEP_FILE = CMakeFiles/NumberTheroy.dir/K_-_GCD.cpp.o.d
+build CMakeFiles/NumberTheroy.dir/W_-_Easy_Number_Challenge.cpp.o: CXX_COMPILER__NumberTheroy_Debug /home/ak/Desktop/Technical$ Learning/CPPPractise$ Folder/PS/NumberTheroy/W$ -$ Easy$ Number$ Challenge.cpp || cmake_object_order_depends_target_NumberTheroy
+  DEP_FILE = CMakeFiles/NumberTheroy.dir/W_-_Easy_Number_Challenge.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/NumberTheroy.dir
   OBJECT_FILE_DIR = CMakeFiles/NumberTheroy.dir
@@ -63,7 +63,7 @@ build CMakeFiles/NumberTheroy.dir/K_-_GCD.cpp.o: CXX_COMPILER__NumberTheroy_Debu
 #############################################
 # Link the executable NumberTheroy
 
-build NumberTheroy: CXX_EXECUTABLE_LINKER__NumberTheroy_Debug CMakeFiles/NumberTheroy.dir/K_-_GCD.cpp.o
+build NumberTheroy: CXX_EXECUTABLE_LINKER__NumberTheroy_Debug CMakeFiles/NumberTheroy.dir/W_-_Easy_Number_Challenge.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/NumberTheroy.dir
   POST_BUILD = :
