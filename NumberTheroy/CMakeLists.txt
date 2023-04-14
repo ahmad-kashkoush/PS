@@ -3,4 +3,4 @@ project(NumberTheroy)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(NumberTheroy  "W - Easy Number Challenge.cpp")
+add_executable(NumberTheroy    "sumProblem Hr.cpp")
