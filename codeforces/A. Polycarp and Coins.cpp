@@ -1,46 +1,44 @@
-//
-// Created by ak on 3/31/2023.
-//
+//والله يابني مانا عارف ادينا بنهبد
+//كود بلا هدف, تكبييييير
+// Problem Link -->
 #include<bits/stdc++.h>
 #define el '\n'
 #define ll long long
-#define reset(v, d) memset(v, d , sizeof(v))
 #define all(s)  s.begin(), s.end()
-#define cin(v)  for(auto &i:v)cin>>i
-#define cout(v) for(auto i:v)cout<<i<<" "
 using namespace std;
-void judge();
-const int mod = 1e9 + 7, OO = 2 * 1e9;
-const double pi = 3.1415926535897932384;
 void solve(){
     int n; cin>>n;
-    int a=n/3;
-    int b=n/3;
-    int x=n-(a+2*b);
-    b+=x/2;
-    a+=x%2;
+    int value=n%3;
+    int a=n/3, b=n/3;
+    while(value>=2){
+        b++;
+        value-=2;
+    }
+    while(value>=1){
+        a++;
+        value--;
+    }
     cout<<a<<" "<<b;
-
+    cout<<el;
 }
 int main() {
-    judge();
+    ios_base::sync_with_stdio(0),
+    cin.tie(0),cout.tie(0);
     int t=1;
     cin>>t;
-    while(t--){
+    while(t--)
         solve();
-        cout<<el;
-    }
-
     return 0;
+
+
 }
 
-void judge() {
-    ios::sync_with_stdio(0);
-    cin.tie(NULL);
-    cout.tie(0);
-#ifndef ONLINE_JUDGE
-    freopen("input.txt", "r", stdin);
-    freopen("output.txt", "w", stdout);
-    freopen("error.txt", "w", stderr);
-#endif
-}
+
+
+
+
+
+
+
+
+

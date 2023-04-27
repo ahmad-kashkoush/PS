@@ -21,83 +21,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ded726c1-afaa-4cdb-b219-69ad9c7ecebf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../NumberTheroy/ Digital Roulette.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberTheroy/AH - Line.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberTheroy/B - Trapezoid Sum.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberTheroy/B. Restoring Painting.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberTheroy/Big Mod.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberTheroy/F - Combinations .cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberTheroy/H - LCM Cardinality.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberTheroy/L - Uniform Generator.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberTheroy/MIXTURES - Mixtures.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberTheroy/S - Power of Cryptography.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberTheroy/Summing the N series.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberTheroy/U - Divisors .cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberTheroy/Z - Modular Fibonacci.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberTheroy/sumProblem Hr.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A. And Then There Were K.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A. Digits Sum.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A. Eshag Loves Big Arrays.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A. Ezzat and Two Subsequences.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A. Find The Array.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A. Pretty Permutations.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A. Shortest Path with Obstacle.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A. Stone Game.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B. Bad Boy.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B. Friends and Candies.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B. Ordinary Numbers.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberTheroy/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberTheroy/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberTheroy/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-13b51da8277865a6307d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberTheroy/cmake-build-debug/.cmake/api/v1/reply/index-2023-04-08T19-18-28-0206.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberTheroy/cmake-build-debug/.cmake/api/v1/reply/target-NumberTheroy-Debug-24baced13656a918416a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberTheroy/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberTheroy/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberTheroy/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberTheroy/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberTheroy/cmake-build-debug/D - Jack and Jill.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberTheroy/cmake-build-debug/NumberTheroy" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberTheroy/cmake-build-debug/NumberTheroy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A. AB Balance.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A. ABC String.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A. Anti Light's Cell Guessing.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A. Candies.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A. Divide and Multiply.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A. Exciting Bets.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A. Mocha and Math.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A. Odd Divisor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A. PizzaForces.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A. Shifting Stacks.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A. Split it!.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A. Strange Partition.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A. Wizard of Orz.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B - Counting Roads.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B. 01 Game.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B. Array Eversion.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B. Bear and Three Musketeers.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B. Customising the Track.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B. Luntik and Subsequences.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B. Make AP.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B. Make it Divisible by 25.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B. Mocha and Red and Blue.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B. Multiply by 2, divide by 6.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B. Napoleon Cake.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B. New Year's Number.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B. Non-Substring Subsequence.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B. Odd Grasshopper.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B. Permutation Sort.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B. Road Construction.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B. Special Permutation.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B. The Great Hero.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C - One-stroke Path.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C - Peaks.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C. Dominant Piranha.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C. Ian and Array Sorting.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C. Searching for Graph .cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C. Unique Number.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D. Graph And Its Complement.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D. Super-Permutation.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E. Interesting Graph and Apples.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/F. Gardening Friends.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../NumberTheroy/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberTheroy/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberTheroy/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberTheroy/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberTheroy/cmake-build-debug/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberTheroy/cmake-build-debug/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberTheroy/cmake-build-debug/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberTheroy/cmake-build-debug/output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeforces.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeforces.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-1a1ea566c45e410d72a0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-62312f93c4de685e1bae.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-8022b3ee525f00401009.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-31T00-31-03-0231.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-codeforces-Debug-fbd129aea2f75d6da24f.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-561666ebc7bc8e05dce9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-59fcd6badb948a901767.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-04-14T11-32-09-0697.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-codeforces-Debug-daf72fba6e9cc418a439.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/B. Hopscotch.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/B. Optimal Reduction.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/C. Build Permutation.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/codeforces.dir/A._Odd_Set.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/codeforces.dir/A._Polycarp_and_Coins.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/codeforces" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/codeforces" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/output.txt" afterDir="false" />
@@ -168,7 +142,21 @@
       <workItem from="1681363709889" duration="1596000" />
       <workItem from="1681396526447" duration="824000" />
       <workItem from="1681406379463" duration="3551000" />
-      <workItem from="1681465420237" duration="3590000" />
+      <workItem from="1681465420237" duration="13884000" />
+      <workItem from="1681564757329" duration="5198000" />
+      <workItem from="1681653575980" duration="3473000" />
+      <workItem from="1681691433165" duration="6281000" />
+      <workItem from="1681755250601" duration="2715000" />
+      <workItem from="1681782664108" duration="383000" />
+      <workItem from="1682163338637" duration="7911000" />
+      <workItem from="1682241033494" duration="15347000" />
+      <workItem from="1682391502461" duration="7038000" />
+      <workItem from="1682407764569" duration="6184000" />
+      <workItem from="1682424756083" duration="1564000" />
+      <workItem from="1682427527138" duration="4669000" />
+      <workItem from="1682449012308" duration="2079000" />
+      <workItem from="1682515538292" duration="9068000" />
+      <workItem from="1682547919080" duration="3299000" />
     </task>
     <servers />
   </component>

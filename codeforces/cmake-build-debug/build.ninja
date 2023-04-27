@@ -49,8 +49,8 @@ cmake_ninja_workdir = /media/ak/sda1/D/Technical$ Learning/CPPPractise$ Folder/P
 
 build cmake_object_order_depends_target_codeforces: phony || CMakeFiles/codeforces.dir
 
-build CMakeFiles/codeforces.dir/B._Bad_Boy.cpp.o: CXX_COMPILER__codeforces_Debug /media/ak/sda1/D/Technical$ Learning/CPPPractise$ Folder/PS/codeforces/B.$ Bad$ Boy.cpp || cmake_object_order_depends_target_codeforces
-  DEP_FILE = CMakeFiles/codeforces.dir/B._Bad_Boy.cpp.o.d
+build CMakeFiles/codeforces.dir/D._Graph_And_Its_Complement.cpp.o: CXX_COMPILER__codeforces_Debug /media/ak/sda1/D/Technical$ Learning/CPPPractise$ Folder/PS/codeforces/D.$ Graph$ And$ Its$ Complement.cpp || cmake_object_order_depends_target_codeforces
+  DEP_FILE = CMakeFiles/codeforces.dir/D._Graph_And_Its_Complement.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/codeforces.dir
   OBJECT_FILE_DIR = CMakeFiles/codeforces.dir
@@ -63,7 +63,7 @@ build CMakeFiles/codeforces.dir/B._Bad_Boy.cpp.o: CXX_COMPILER__codeforces_Debug
 #############################################
 # Link the executable codeforces
 
-build codeforces: CXX_EXECUTABLE_LINKER__codeforces_Debug CMakeFiles/codeforces.dir/B._Bad_Boy.cpp.o
+build codeforces: CXX_EXECUTABLE_LINKER__codeforces_Debug CMakeFiles/codeforces.dir/D._Graph_And_Its_Complement.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/codeforces.dir
   POST_BUILD = :
