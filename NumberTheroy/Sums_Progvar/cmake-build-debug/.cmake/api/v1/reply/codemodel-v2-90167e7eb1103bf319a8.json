@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Sums_Progvar",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Sums_Progvar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sums_Progvar-Debug-4e86a778d0051a6f4132.json",
+					"name" : "Sums_Progvar",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/media/ak/sda1/D/Technical Learning/CPPPractise Folder/PS/NumberTheroy/Sums_Progvar/cmake-build-debug",
+		"source" : "/media/ak/sda1/D/Technical Learning/CPPPractise Folder/PS/NumberTheroy/Sums_Progvar"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

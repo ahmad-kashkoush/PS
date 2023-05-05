@@ -1,0 +1,3 @@
+/media/ak/sda1/D/Technical Learning/CPPPractise Folder/PS/NumberTheroy/NTheory Fun/cmake-build-debug/CMakeFiles/Number_Theory__Prime_and_Composite__Primality_Testing__Prime_Sieves__Finding_Divisors_ProgVar.dir
+/media/ak/sda1/D/Technical Learning/CPPPractise Folder/PS/NumberTheroy/NTheory Fun/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/ak/sda1/D/Technical Learning/CPPPractise Folder/PS/NumberTheroy/NTheory Fun/cmake-build-debug/CMakeFiles/rebuild_cache.dir

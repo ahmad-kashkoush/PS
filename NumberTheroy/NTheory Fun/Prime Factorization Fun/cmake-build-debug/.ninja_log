@@ -1,0 +1,9 @@
+# ninja log v5
+1	50	1683280347737835800	build.ninja	b182313340fa5586
+0	1533	1683117127896239200	CMakeFiles/Prime_Factorization_Fun.dir/Vasya_and_Petya's_Game.cpp.o	ee7299c269979062
+1522	1586	1683209840725142200	Prime_Factorization_Fun	f54fed61b783d7f5
+1	1538	1683134125602119300	CMakeFiles/Prime_Factorization_Fun.dir/D_-_756.cpp.o	d8d217f6eefe4dae
+1	1661	1683120032715075100	CMakeFiles/Prime_Factorization_Fun.dir/A._k-Factorization.cpp.o	7ff0c42e93a11335
+1	1521	1683209840660350300	CMakeFiles/Prime_Factorization_Fun.dir/E_-_Double_Factorial.cpp.o	ed2a6e8f9d1565fd
+0	1932	1683280592588201800	CMakeFiles/Prime_Factorization_Fun.dir/D_-_Div_Game.cpp.o	4ecf0724078e64ae
+1941	2062	1683280592716701100	Prime_Factorization_Fun	ca95d24bc3371796

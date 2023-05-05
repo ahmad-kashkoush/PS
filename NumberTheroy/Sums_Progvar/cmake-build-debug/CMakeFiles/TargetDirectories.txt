@@ -1,0 +1,3 @@
+/media/ak/sda1/D/Technical Learning/CPPPractise Folder/PS/NumberTheroy/Sums_Progvar/cmake-build-debug/CMakeFiles/Sums_Progvar.dir
+/media/ak/sda1/D/Technical Learning/CPPPractise Folder/PS/NumberTheroy/Sums_Progvar/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/ak/sda1/D/Technical Learning/CPPPractise Folder/PS/NumberTheroy/Sums_Progvar/cmake-build-debug/CMakeFiles/rebuild_cache.dir

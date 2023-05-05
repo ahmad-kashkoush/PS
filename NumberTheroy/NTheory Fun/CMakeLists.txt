@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.24)
+project(Number_Theory__Prime_and_Composite__Primality_Testing__Prime_Sieves__Finding_Divisors_ProgVar)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(Number_Theory__Prime_and_Composite__Primality_Testing__Prime_Sieves__Finding_Divisors_ProgVar "D - Staircase Sequences.cpp")

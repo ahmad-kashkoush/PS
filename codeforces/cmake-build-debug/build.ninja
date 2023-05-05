@@ -11,7 +11,7 @@
 # =============================================================================
 
 # =============================================================================
-# Project: codeforces
+# Project: PS
 # Configurations: Debug
 # =============================================================================
 
@@ -41,35 +41,36 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = /media/ak/sda1/D/Technical$ Learning/CPPPractise$ Folder/PS/codeforces/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target codeforces
+# Object build statements for EXECUTABLE target PS
 
 
 #############################################
-# Order-only phony target for codeforces
+# Order-only phony target for PS
 
-build cmake_object_order_depends_target_codeforces: phony || CMakeFiles/codeforces.dir
+build cmake_object_order_depends_target_PS: phony || CMakeFiles/PS.dir
 
-build CMakeFiles/codeforces.dir/D._Graph_And_Its_Complement.cpp.o: CXX_COMPILER__codeforces_Debug /media/ak/sda1/D/Technical$ Learning/CPPPractise$ Folder/PS/codeforces/D.$ Graph$ And$ Its$ Complement.cpp || cmake_object_order_depends_target_codeforces
-  DEP_FILE = CMakeFiles/codeforces.dir/D._Graph_And_Its_Complement.cpp.o.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/codeforces.dir
-  OBJECT_FILE_DIR = CMakeFiles/codeforces.dir
+build CMakeFiles/PS.dir/B._Fish_Graph.cpp.o: CXX_COMPILER__PS_Debug /media/ak/sda1/D/Technical$ Learning/CPPPractise$ Folder/PS/codeforces/B.$ Fish$ Graph.cpp || cmake_object_order_depends_target_PS
+  DEP_FILE = CMakeFiles/PS.dir/B._Fish_Graph.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
+  INCLUDES = -I"/media/ak/sda1/D/Technical Learning/CPPPractise Folder/PS/codeforces/."
+  OBJECT_DIR = CMakeFiles/PS.dir
+  OBJECT_FILE_DIR = CMakeFiles/PS.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target codeforces
+# Link build statements for EXECUTABLE target PS
 
 
 #############################################
-# Link the executable codeforces
+# Link the executable PS
 
-build codeforces: CXX_EXECUTABLE_LINKER__codeforces_Debug CMakeFiles/codeforces.dir/D._Graph_And_Its_Complement.cpp.o
+build PS: CXX_EXECUTABLE_LINKER__PS_Debug CMakeFiles/PS.dir/B._Fish_Graph.cpp.o
   FLAGS = -g
-  OBJECT_DIR = CMakeFiles/codeforces.dir
+  OBJECT_DIR = CMakeFiles/PS.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = codeforces
-  TARGET_PDB = codeforces.dbg
+  TARGET_FILE = PS
+  TARGET_PDB = PS.dbg
 
 
 #############################################
@@ -105,7 +106,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /media/ak/sda1/D/Technical Learning/CPPPractise Folder/PS/codeforces/cmake-build-debug
 
-build all: phony codeforces
+build all: phony PS
 
 # =============================================================================
 # Built-in targets
