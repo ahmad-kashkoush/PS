@@ -25,6 +25,7 @@ void solve(){
     if(n!=1)mp[n]++;
     n=tmp;
     ll ans=0;
+    int cnt=0;
     for(auto [p, f]:mp){
         ll i=1, x=f;
         while(i<=x){
@@ -32,7 +33,10 @@ void solve(){
             x-=i;
             i++;
         }
+
     }
+
+    cout<<"Complexity: "<<cnt<<el;
     cout<<ans<<el;
 
 }

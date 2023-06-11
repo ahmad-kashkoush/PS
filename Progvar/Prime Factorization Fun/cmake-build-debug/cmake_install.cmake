@@ -1,4 +1,4 @@
-# Install script for directory: /media/ak/sda1/D/Technical Learning/CPPPractise Folder/PS/NumberTheroy/NTheory Fun/Prime Factorization Fun
+# Install script for directory: /media/ak/sda1/D/Technical Learning/CPPPractise Folder/PS/Progvar/Prime Factorization Fun
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/media/ak/sda1/D/Technical Learning/CPPPractise Folder/PS/NumberTheroy/NTheory Fun/Prime Factorization Fun/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/media/ak/sda1/D/Technical Learning/CPPPractise Folder/PS/Progvar/Prime Factorization Fun/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

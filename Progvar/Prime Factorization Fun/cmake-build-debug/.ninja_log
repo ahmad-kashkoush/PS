@@ -1,9 +1,13 @@
 # ninja log v5
-1	50	1683280347737835800	build.ninja	b182313340fa5586
-0	1533	1683117127896239200	CMakeFiles/Prime_Factorization_Fun.dir/Vasya_and_Petya's_Game.cpp.o	ee7299c269979062
-1522	1586	1683209840725142200	Prime_Factorization_Fun	f54fed61b783d7f5
-1	1538	1683134125602119300	CMakeFiles/Prime_Factorization_Fun.dir/D_-_756.cpp.o	d8d217f6eefe4dae
-1	1661	1683120032715075100	CMakeFiles/Prime_Factorization_Fun.dir/A._k-Factorization.cpp.o	7ff0c42e93a11335
-1	1521	1683209840660350300	CMakeFiles/Prime_Factorization_Fun.dir/E_-_Double_Factorial.cpp.o	ed2a6e8f9d1565fd
-0	1932	1683280592588201800	CMakeFiles/Prime_Factorization_Fun.dir/D_-_Div_Game.cpp.o	4ecf0724078e64ae
-1941	2062	1683280592716701100	Prime_Factorization_Fun	ca95d24bc3371796
+0	27	1683292997233606400	build.ninja	d771216203574002
+1	2100	1683290274216972600	CMakeFiles/Prime_Factorization_Fun.dir/D_-_Coprime_2.cpp.o	20e94261f8941040
+2100	2182	1683290274298082500	Prime_Factorization_Fun	5be749f3c4e3da58
+1	1816	1683285851733632500	CMakeFiles/Prime_Factorization_Fun.dir/D_-_Div_Game.cpp.o	a0eb0a953ab2f32d
+0	1782	1683293189670047000	CMakeFiles/Prime_Factorization_Fun.dir/C_-_Factors_of_Factorial_.cpp.o	cbab8218b1fee80c
+1791	1880	1683293189767317100	Prime_Factorization_Fun	16c533921f221c9c
+1	1733	1683293262477843000	CMakeFiles/Prime_Factorization_Fun.dir/C_-_Factors_of_Factorial_.cpp.o	cbab8218b1fee80c
+1733	1881	1683293262625802800	Prime_Factorization_Fun	16c533921f221c9c
+1	1748	1683293359977318900	CMakeFiles/Prime_Factorization_Fun.dir/C_-_Factors_of_Factorial_.cpp.o	cbab8218b1fee80c
+1748	1963	1683293360191525800	Prime_Factorization_Fun	16c533921f221c9c
+1	1869	1683293380732946800	CMakeFiles/Prime_Factorization_Fun.dir/C_-_Factors_of_Factorial_.cpp.o	cbab8218b1fee80c
+1869	2149	1683293381012524100	Prime_Factorization_Fun	16c533921f221c9c
