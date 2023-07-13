@@ -18,33 +18,43 @@ const double pi = 3.1415926535897932384;
     15 30 45
     15 45
  */
-int LCM(int a, int b){
+ll LCM(ll a, ll b){
     return a/__gcd(a, b)*b;
 }
 void solve(){
     int n, m; cin>>n>>m;
-    int arr[n];
+    ll arr[n];
     cin>>arr[0];
-    int least=arr[0]/2;
+    arr[0]/=2;
+    ll least=arr[0];
+    if(n==1){
+        cout<<((m/least)+1)/2;
+        return;
+    }
     for(int i=1;i<n;i++) {
         cin >> arr[i];
-        least=LCM(arr[i]/2, least);
+        arr[i]/=2;
+        least=LCM(least, arr[i]);
     }
-    int ans=0;
-    int tmp1=0, tmp2=0;
-    while(least%2==0){
-        tmp1++;
-        least/=2;
-    }
+    cout<<"LCM: "<<least<<el;
+    ll tmp=0;
+    ll x=least;
+    while(least%2==0)
+        tmp++, least/=2;
     for(int i=0;i<n;i++){
+        ll tmp2=0;
         while(arr[i]%2==0)
             tmp2++, arr[i]/=2;
-        if(tmp1!=tmp2)return void(cout<<0);
+        if(tmp!=tmp2)
+            return void(cout<<0);
     }
+    cout<<((m/x)+1)/2;
 
-    int val=m/least;// total
-    val=((val+1)/2);
-    cout<<val;
+
+
+
+
+
 
 }
 int main() {
@@ -69,3 +79,16 @@ void judge() {
 #endif
 }
 
+/*
+ x-->[1, m]
+ A--> [a/2, a2/2....]
+ x=a*(p+.5)=a/2*(2p+1)
+ x=a/2*(2p+1)
+ a/2, a2/2, .....,an/2-->
+
+x multiple of [a/2...an/2]
+x=a/2*(2p+1)---> twos(x)=twos(a/2)
+
+
+
+ */

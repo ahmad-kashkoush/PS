@@ -1,7 +1,4 @@
 /app/extra/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/app/extra/clion/bin/ninja/linux/x64/ninja -G Ninja -S "/media/ak/sda1/D/Technical Learning/CPPPractise Folder/PS/codeforces" -B "/media/ak/sda1/D/Technical Learning/CPPPractise Folder/PS/codeforces/cmake-build-debug"
 -- Configuring done
-CMake Error at CMakeLists.txt:8 (add_executable):
-  No SOURCES given to target: PS
-
-
-CMake Generate step failed.  Build files cannot be regenerated correctly.
+-- Generating done
+-- Build files have been written to: /media/ak/sda1/D/Technical Learning/CPPPractise Folder/PS/codeforces/cmake-build-debug

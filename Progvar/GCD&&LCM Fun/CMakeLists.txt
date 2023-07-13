@@ -3,4 +3,4 @@ project(GCD__LCM_Fun)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(GCD__LCM_Fun "D - Semi Common Multiple.cpp")
+add_executable(GCD__LCM_Fun "E - Flatten.cpp")
