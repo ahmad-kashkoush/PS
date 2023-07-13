@@ -49,8 +49,8 @@ cmake_ninja_workdir = /media/ak/sda1/D/Technical$ Learning/CPPPractise$ Folder/P
 
 build cmake_object_order_depends_target_PS: phony || CMakeFiles/PS.dir
 
-build CMakeFiles/PS.dir/E_-_system_CodeForces_-_22C_.cpp.o: CXX_COMPILER__PS_Debug /media/ak/sda1/D/Technical$ Learning/CPPPractise$ Folder/PS/codeforces/E$ -$ system$ CodeForces$ -$ 22C$ .cpp || cmake_object_order_depends_target_PS
-  DEP_FILE = CMakeFiles/PS.dir/E_-_system_CodeForces_-_22C_.cpp.o.d
+build CMakeFiles/PS.dir/Skate_on_ice_CodeForces_-_217A_.cpp.o: CXX_COMPILER__PS_Debug /media/ak/sda1/D/Technical$ Learning/CPPPractise$ Folder/PS/codeforces/Skate$ on$ ice$ CodeForces$ -$ 217A$ .cpp || cmake_object_order_depends_target_PS
+  DEP_FILE = CMakeFiles/PS.dir/Skate_on_ice_CodeForces_-_217A_.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always -std=gnu++14
   INCLUDES = -I"/media/ak/sda1/D/Technical Learning/CPPPractise Folder/PS/codeforces/."
   OBJECT_DIR = CMakeFiles/PS.dir
@@ -64,7 +64,7 @@ build CMakeFiles/PS.dir/E_-_system_CodeForces_-_22C_.cpp.o: CXX_COMPILER__PS_Deb
 #############################################
 # Link the executable PS
 
-build PS: CXX_EXECUTABLE_LINKER__PS_Debug CMakeFiles/PS.dir/E_-_system_CodeForces_-_22C_.cpp.o
+build PS: CXX_EXECUTABLE_LINKER__PS_Debug CMakeFiles/PS.dir/Skate_on_ice_CodeForces_-_217A_.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/PS.dir
   POST_BUILD = :
