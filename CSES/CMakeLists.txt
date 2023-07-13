@@ -3,4 +3,4 @@ project(CSES)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(CSES "Sorting and Searching/R - Josephus Problem I .cpp")
+add_executable(CSES "Sorting and Searching/Josephus Problem II .cpp")

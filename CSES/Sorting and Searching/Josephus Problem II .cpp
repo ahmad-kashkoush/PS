@@ -2,6 +2,8 @@
 // Created by ak on 7/13/23.
 //
 #include<bits/stdc++.h>
+#include <ext/pb_ds/assoc_container.hpp>
+#include <ext/pb_ds/tree_policy.hpp>
 #define el '\n'
 #define ll long long
 #define reset(v, d) memset(v, d , sizeof(v))
@@ -9,35 +11,27 @@
 #define cin(v)  for(auto &i:v)cin>>i
 #define cout(v) for(auto i:v)cout<<i<<" "
 using namespace std;
+using namespace __gnu_pbds;
 void judge();
 const int mod = 1e9 + 7, OO = 2 * 1e9;
 const double pi = 3.1415926535897932384;
-//void solve(){
-//    int n; cin>>n;
-//    deque<int> st;
-//    for(int i=1;i<=n;i++)
-//       st.emplace_back(i);
-//    int cnt=1;
-//    while(!st.empty()){
-//        int last;
-//        if(st.size()==1)return void(cout<<st.front());
-//        int bck=st.back();
-//        for(int i=cnt;i<st.size();i+=2){
-//            cout<<st[i]<<" ";
-//            last=st[i];
-//            st[i]=-1;
-//        }
-//        if(last==bck)cnt=1;
-//        else       cnt=0;
-//        sort(all(st));
-//        while(st.front()==-1)
-//            st.pop_front();
-//
-//    }
-//}
 
-
-
+void solve() {
+    int n, k;
+    cin >> n >> k;
+    tree<int, null_type, less<int>, rb_tree_tag,
+            tree_order_statistics_node_update> T;
+    for (int i = 1; i <= n; i++)
+        T.insert(i);
+    int i = k;
+    while (T.size()) {
+        i %= (int) T.size();
+        int val = *T.find_by_order(i);
+        T.erase(val);
+        cout << val << " ";
+        i += k;
+    }
+}
 int main() {
     judge();
     int t=1;

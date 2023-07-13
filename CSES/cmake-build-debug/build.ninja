@@ -49,8 +49,8 @@ cmake_ninja_workdir = /media/ak/sda1/D/Technical$ Learning/CPPPractise$ Folder/P
 
 build cmake_object_order_depends_target_CSES: phony || CMakeFiles/CSES.dir
 
-build CMakeFiles/CSES.dir/Sorting_and_Searching/R_-_Josephus_Problem_I_.cpp.o: CXX_COMPILER__CSES_Debug /media/ak/sda1/D/Technical$ Learning/CPPPractise$ Folder/PS/CSES/Sorting$ and$ Searching/R$ -$ Josephus$ Problem$ I$ .cpp || cmake_object_order_depends_target_CSES
-  DEP_FILE = CMakeFiles/CSES.dir/Sorting_and_Searching/R_-_Josephus_Problem_I_.cpp.o.d
+build CMakeFiles/CSES.dir/Sorting_and_Searching/Josephus_Problem_II_.cpp.o: CXX_COMPILER__CSES_Debug /media/ak/sda1/D/Technical$ Learning/CPPPractise$ Folder/PS/CSES/Sorting$ and$ Searching/Josephus$ Problem$ II$ .cpp || cmake_object_order_depends_target_CSES
+  DEP_FILE = CMakeFiles/CSES.dir/Sorting_and_Searching/Josephus_Problem_II_.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/CSES.dir
   OBJECT_FILE_DIR = CMakeFiles/CSES.dir/Sorting_and_Searching
@@ -63,7 +63,7 @@ build CMakeFiles/CSES.dir/Sorting_and_Searching/R_-_Josephus_Problem_I_.cpp.o: C
 #############################################
 # Link the executable CSES
 
-build CSES: CXX_EXECUTABLE_LINKER__CSES_Debug CMakeFiles/CSES.dir/Sorting_and_Searching/R_-_Josephus_Problem_I_.cpp.o
+build CSES: CXX_EXECUTABLE_LINKER__CSES_Debug CMakeFiles/CSES.dir/Sorting_and_Searching/Josephus_Problem_II_.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/CSES.dir
   POST_BUILD = :
