@@ -1,7 +1,0 @@
-/app/extra/clion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/app/extra/clion/bin/ninja/linux/ninja -G Ninja -S "/mnt/D/Technical Learning/CPPPractise Folder/PS" -B "/mnt/D/Technical Learning/CPPPractise Folder/PS/cmake-build-debug"
--- Configuring done
-CMake Error at CMakeLists.txt:8 (add_executable):
-  No SOURCES given to target: PS
-
-
-CMake Generate step failed.  Build files cannot be regenerated correctly.

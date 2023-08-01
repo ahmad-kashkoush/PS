@@ -1,3 +1,0 @@
-D:/D/Technical Learning/CPPPractise Folder/PS/clionProjects/cmake-build-debug/CMakeFiles/clionProjects.dir
-D:/D/Technical Learning/CPPPractise Folder/PS/clionProjects/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/D/Technical Learning/CPPPractise Folder/PS/clionProjects/cmake-build-debug/CMakeFiles/rebuild_cache.dir

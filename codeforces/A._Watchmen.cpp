@@ -1,3 +1,6 @@
+//
+// Created by ak on 7/24/23.
+//
 #include<bits/stdc++.h>
 #define el '\n'
 #define ll long long
@@ -10,12 +13,26 @@ void judge();
 const int mod = 1e9 + 7, OO = 2 * 1e9;
 const double pi = 3.1415926535897932384;
 void solve(){
+    int n; cin>>n;
+
+    unordered_map<int, int> x, y;
+     map<pair<int, int>, int> mp;
+    int mx=0;
+    ll ans=0;
+    for(int i=0;i<n;i++){
+        int u, v;
+        cin>>u>>v;
+        ans+=x[u]++;
+        ans+=y[v]++;
+        ans-=mp[{u, v}]++;
+    }
+    cout<<ans;
 
 }
 int main() {
     judge();
     int t=1;
-    cin>>t;
+//    cin>>t;
     while(t--){
         solve();
     }
@@ -33,3 +50,4 @@ void judge() {
     freopen("error.txt", "w", stderr);
 #endif
 }
+

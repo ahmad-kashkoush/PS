@@ -31,8 +31,8 @@
 1	1661	1682166501580135900	CMakeFiles/codeforces.dir/B._Luntik_and_Subsequences.cpp.o	b999f032c0327670
 0	1677	1682531194151551700	CMakeFiles/codeforces.dir/C_-_Peaks.cpp.o	3abaaf924460071d
 0	1303	1688676401161498000	CMakeFiles/PS.dir/Ferris_Wheel_.cpp.o	9e52f3545ad7b7c6
-1221	1282	1689255314062946200	PS	51d5626d5020898d
-0	23	1689259636483583100	build.ninja	4ae87416dd6cc0ec
+1712	1875	1689348262019609000	PS	e9835acad273884b
+0	23	1689349316629244300	build.ninja	4ae87416dd6cc0ec
 1	1095	1688041480962384200	CMakeFiles/PS.dir/D_-_Yet_Another_Crosses_Problem.cpp.o	df404a2ffa30f046
 2	1601	1681743816546439000	CMakeFiles/codeforces.dir/A._Long_Comparison.cpp.o	4b980f1cc0d16bdc
 1	1583	1681695841026991500	CMakeFiles/codeforces.dir/C._Ian_and_Array_Sorting.cpp.o	ae482fe71d542f86
@@ -53,6 +53,7 @@
 1	1151	1688250126515335200	CMakeFiles/PS.dir/E_-_A_Piece_of_Cake.cpp.o	4519668f11a64804
 0	2083	1682408039223625900	CMakeFiles/codeforces.dir/F._Gardening_Friends.cpp.o	c3739d07d9532853
 1	1464	1681691922558417600	CMakeFiles/codeforces.dir/B._Make_AP.cpp.o	74cae9364be05f72
+1	1711	1689348261856541200	CMakeFiles/PS.dir/D_-_KAIBUNsyo.cpp.o	a1d93bfb0052d8e8
 1	1534	1681760593751103400	CMakeFiles/codeforces.dir/A._AB_Balance.cpp.o	a8493dcf7aa1edd7
 1	1169	1688390573464475200	CMakeFiles/PS.dir/M_-_Double_Sort_.cpp.o	106216585426ea48
 1	1575	1682312570508484500	CMakeFiles/codeforces.dir/B._Array_Eversion.cpp.o	b4657f7f2f6bfc58
@@ -73,6 +74,7 @@
 0	1574	1682322961060376300	CMakeFiles/codeforces.dir/B._Multiply_by_2,_divide_by_6.cpp.o	6e96e485af2a2e27
 2	1530	1682530007779778600	CMakeFiles/codeforces.dir/B_-_Counting_Roads.cpp.o	88badc002a5da4bc
 1766	1849	1682554711756528000	codeforces	a9c85e1f38a32610
+1	1436	1689261474012904700	CMakeFiles/PS.dir/Skate_on_ice_CodeForces_-_217A_.cpp.o	af84f539aa59d201
 1	1192	1689173221122234100	CMakeFiles/PS.dir/C_-_Network_Topology_CodeForces_-_292B_.cpp.o	a068857bf2f67982
 1	1495	1682323854141820600	CMakeFiles/codeforces.dir/C._Dominant_Piranha.cpp.o	8f707a31894cce38
 1	1178	1688692212516467900	CMakeFiles/PS.dir/Restaurant_Customers_.cpp.o	20b5ffb55ab98622
@@ -98,6 +100,7 @@
 1	1280	1682932279385661500	CMakeFiles/PS.dir/C._Almost_Increasing_Subsequence.cpp.o	18b7a2ce401e90f9
 0	1489	1681470061637624700	CMakeFiles/codeforces.dir/B._Array_Reodering.cpp.o	182514a77d4a7db2
 1	1679	1682408847053730300	CMakeFiles/codeforces.dir/A._Candies.cpp.o	de85d3e923e127f3
+1	1218	1689271852443039100	CMakeFiles/PS.dir/D._Graph_And_Its_Complement_.cpp.o	d8fbfcc035686ce9
 1	1020	1683530878210542600	CMakeFiles/PS.dir/D._Climbing_the_Tree.cpp.o	339697a34ff09139
 1	1669	1682420488616837100	CMakeFiles/codeforces.dir/B._Road_Construction.cpp.o	9f81b0ccad2d8a6c
 1	1558	1681494594132317300	CMakeFiles/codeforces.dir/A._Mocha_and_Math.cpp.o	8f8033f26eb7ed5
@@ -106,11 +109,11 @@
 1	1304	1684410915899846400	CMakeFiles/PS.dir/A_-_Dolls_.cpp.o	793c9a75aca25199
 0	1137	1688589838200118200	CMakeFiles/PS.dir/D._Add_to_Neighbour_and_Remove.cpp.o	a13f69a3eb579a7a
 1	1071	1688046069665545400	CMakeFiles/PS.dir/P_-_AB_plus_C.cpp.o	7038fcdcb7dbac20
-0	1318	1689259705716200000	CMakeFiles/PS.dir/Skate_on_ice_CodeForces_-_217A_.cpp.o	af84f539aa59d201
-1328	1549	1689259705946819000	PS	e4d0c604084a2e0f
-1	1513	1689260960441302000	CMakeFiles/PS.dir/Skate_on_ice_CodeForces_-_217A_.cpp.o	af84f539aa59d201
-1513	1587	1689260960514234400	PS	e4d0c604084a2e0f
-1	1374	1689260982768774500	CMakeFiles/PS.dir/Skate_on_ice_CodeForces_-_217A_.cpp.o	af84f539aa59d201
-1374	1450	1689260982844121400	PS	e4d0c604084a2e0f
-2	1528	1689261016334924700	CMakeFiles/PS.dir/Skate_on_ice_CodeForces_-_217A_.cpp.o	af84f539aa59d201
-1528	1754	1689261016560871300	PS	e4d0c604084a2e0f
+0	1284	1689349422265561000	CMakeFiles/PS.dir/_Road_Construction_.cpp.o	ca328ce608a3ae74
+1294	1360	1689349422341503400	PS	8882b2a580d626d4
+2	1420	1689349431066917100	CMakeFiles/PS.dir/_Road_Construction_.cpp.o	ca328ce608a3ae74
+1420	1486	1689349431132785400	PS	8882b2a580d626d4
+1	1431	1689349499331974100	CMakeFiles/PS.dir/_Road_Construction_.cpp.o	ca328ce608a3ae74
+1432	1502	1689349499401180600	PS	8882b2a580d626d4
+1	1507	1689349788167659100	CMakeFiles/PS.dir/_Road_Construction_.cpp.o	ca328ce608a3ae74
+1507	1578	1689349788238096200	PS	8882b2a580d626d4

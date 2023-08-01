@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 include_directories(.)
 
-add_executable(PS "Skate on ice CodeForces - 217A .cpp")
+add_executable(PS   " Road Construction .cpp")

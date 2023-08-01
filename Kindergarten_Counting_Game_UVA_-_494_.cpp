@@ -1,3 +1,6 @@
+//
+// Created by ak on 7/31/23.
+//
 #include<bits/stdc++.h>
 #define el '\n'
 #define ll long long
@@ -9,15 +12,23 @@ using namespace std;
 void judge();
 const int mod = 1e9 + 7, OO = 2 * 1e9;
 const double pi = 3.1415926535897932384;
-void solve(){
-
+bool isLetter(char c){
+    return (c>='a' and c<='z' or (c>='A' and c<='Z') );
 }
 int main() {
     judge();
     int t=1;
-    cin>>t;
-    while(t--){
-        solve();
+    string s;
+    while(getline(cin, s) and !s.empty()){
+       int n=s.size();
+       int cnt=0;
+       for(int i=0;i<n;i++){
+           bool ok=false;
+            while(i<n and isLetter(s[i]))
+                ok=true,i++;
+            cnt+=ok;
+       }
+       cout<<cnt<<el;
     }
 
     return 0;

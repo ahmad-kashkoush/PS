@@ -1,3 +1,6 @@
+//
+// Created by ak on 7/30/23.
+//
 #include<bits/stdc++.h>
 #define el '\n'
 #define ll long long
@@ -9,13 +12,35 @@ using namespace std;
 void judge();
 const int mod = 1e9 + 7, OO = 2 * 1e9;
 const double pi = 3.1415926535897932384;
+const int N=1010;
+
 void solve(){
+    int n; cin>>n;
+
+    vector<int> ans;
+
+    for(int num=2;num<=n;num++){
+        set<int> factors;
+
+        int tmp=num;
+        for(int j=2;j*j<=tmp;j++){
+            while(tmp%j==0) {
+                tmp /= j;
+                factors.emplace(j);
+            }
+        }
+            if(tmp!=1)factors.emplace(tmp);
+        if(factors.size()<=1)ans.emplace_back(num);
+    }
+    cout<<ans.size()<<el;
+    cout(ans);
 
 }
 int main() {
     judge();
     int t=1;
-    cin>>t;
+
+//    cin>>t;
     while(t--){
         solve();
     }

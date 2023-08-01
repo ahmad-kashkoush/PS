@@ -1,3 +1,6 @@
+//
+// Created by ak on 7/25/23.
+//
 #include<bits/stdc++.h>
 #define el '\n'
 #define ll long long
@@ -10,12 +13,20 @@ void judge();
 const int mod = 1e9 + 7, OO = 2 * 1e9;
 const double pi = 3.1415926535897932384;
 void solve(){
-
+    int a, b;
+    cin>>a>>b;
+    ll sim= (ll)lcm((ll)a, (ll)b)-1;
+    ll Dasha=sim/a;
+    ll Mesha=sim/b;
+//    cout<<sim;
+    if(Dasha-Mesha>1)cout<<"Dasha";
+    else if(Mesha-Dasha>1)cout<<"Masha";
+    else    cout<<"Equal";
 }
 int main() {
     judge();
     int t=1;
-    cin>>t;
+//    cin>>t;
     while(t--){
         solve();
     }

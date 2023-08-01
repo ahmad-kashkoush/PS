@@ -1,3 +1,6 @@
+//
+// Created by ak on 7/30/23.
+//
 #include<bits/stdc++.h>
 #define el '\n'
 #define ll long long
@@ -10,12 +13,28 @@ void judge();
 const int mod = 1e9 + 7, OO = 2 * 1e9;
 const double pi = 3.1415926535897932384;
 void solve(){
+    int n;cin>>n;
+    int a[n];
+    cin(a);
+    for(int i=3;i<=n;i++){
+        if(n%i==0){
 
+            for(int start=0;start<n/i;start++){
+                bool valid=true;
+                for(int j=start;j<n;j+=n/i){
+                    if(!a[j]){valid=false;break;}
+                }
+                if(valid)return void(cout<<"YES");
+            }
+        }
+    }
+
+        cout<<"NO";
 }
 int main() {
     judge();
     int t=1;
-    cin>>t;
+//    cin>>t;
     while(t--){
         solve();
     }
