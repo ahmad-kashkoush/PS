@@ -1,0 +1,12 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp"
+    }
+}
