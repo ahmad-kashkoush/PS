@@ -9,33 +9,28 @@ using namespace std;
 void judge();
 const int mod = 1e9 + 7, OO = 2 * 1e9;
 const double pi = 3.1415926535897932384;
-int trailing9(ll num){
-    int cnt=0;
-    while(num%10==9){
-            num/=10;
-            cnt++;
-    }
-    return cnt;
-}
+int dx[] = { 0, 0, 1, -1, 1, -1, 1, -1 };
+int dy[] = { 1, -1, 0, 0, -1, 1, 1, -1 };
 void solve() {
-    ll n, d;
-    cin >> n >> d;
-    ll tmp = n;
-    ll ans = n;
-    ll x = 10, cnt = 9;
-    int mx = trailing9(n);
-
-    while (n - tmp <= d) {
-        tmp = (((tmp / x) - 1) * x) + cnt;
-        cnt += 9 * x;
-        x *= 10;
-        int curMax=trailing9(tmp);
-        if (n - tmp <= d and curMax>mx){
-            ans = tmp;
-            mx=curMax;
-        }
+    string s, t;
+    cin >> s >> t;
+    map<char, int> ss, tt;
+    for (auto i : s)ss[i]++;
+    for (auto i : t)tt[i]++;
+    int yah = 0;
+    for (auto& [ch, fr] : ss) {
+        if (ss[ch] == 0)continue;
+        int mn = min(fr, tt[ch]);
+        fr -= mn, tt[ch] -= mn, yah += mn;
     }
-    cout << ans << el;
+    int whops = 0;
+    for (auto& [ch, fr] : ss) {
+        char c = (ch <= 'Z' ? ch + 32 : ch - 32);
+        if (fr == 0)continue;
+        int mn = min(fr, tt[c]);
+        fr -= mn, tt[ch] -= mn, whops += mn;
+    }
+    cout << yah << " " << whops;
 }
 int main() {
     judge();

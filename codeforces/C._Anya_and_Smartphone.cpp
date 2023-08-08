@@ -9,33 +9,34 @@ using namespace std;
 void judge();
 const int mod = 1e9 + 7, OO = 2 * 1e9;
 const double pi = 3.1415926535897932384;
-int trailing9(ll num){
-    int cnt=0;
-    while(num%10==9){
-            num/=10;
-            cnt++;
-    }
-    return cnt;
-}
+int dx[] = { 0, 0, 1, -1, 1, -1, 1, -1 };
+int dy[] = { 1, -1, 0, 0, -1, 1, 1, -1 };
 void solve() {
-    ll n, d;
-    cin >> n >> d;
-    ll tmp = n;
-    ll ans = n;
-    ll x = 10, cnt = 9;
-    int mx = trailing9(n);
-
-    while (n - tmp <= d) {
-        tmp = (((tmp / x) - 1) * x) + cnt;
-        cnt += 9 * x;
-        x *= 10;
-        int curMax=trailing9(tmp);
-        if (n - tmp <= d and curMax>mx){
-            ans = tmp;
-            mx=curMax;
-        }
+    int n, m, k;
+    cin >> n >> m >> k;
+    map<int, int> id;
+    int a[n + 1];
+    for (int i = 0;i < n;i++) {
+        cin >> a[i];
+        id[a[i]] = i;
     }
-    cout << ans << el;
+    ll ans = 0;
+    int b[m];
+    for(int i=0;i<m;i++)cin>>b[i];
+    for(int i=0;i<m;i++){
+    
+        ans += (id[b[i]]/k)+1;
+        // cout << b << ": " << ans << "******************************" << el;
+        if (id[b[i]] == 0)continue;
+        int tmp = a[id[b[i]] - 1];
+        swap(a[id[b[i]]], a[id[tmp]]);
+        id[b[i]]--;
+        id[tmp]++;
+    }
+    cout << ans;
+
+
+
 }
 int main() {
     judge();

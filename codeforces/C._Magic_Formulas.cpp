@@ -9,33 +9,32 @@ using namespace std;
 void judge();
 const int mod = 1e9 + 7, OO = 2 * 1e9;
 const double pi = 3.1415926535897932384;
-int trailing9(ll num){
-    int cnt=0;
-    while(num%10==9){
-            num/=10;
-            cnt++;
-    }
-    return cnt;
-}
+int dx[] = { 0, 0, 1, -1, 1, -1, 1, -1 };
+int dy[] = { 1, -1, 0, 0, -1, 1, 1, -1 };
 void solve() {
-    ll n, d;
-    cin >> n >> d;
-    ll tmp = n;
-    ll ans = n;
-    ll x = 10, cnt = 9;
-    int mx = trailing9(n);
 
-    while (n - tmp <= d) {
-        tmp = (((tmp / x) - 1) * x) + cnt;
-        cnt += 9 * x;
-        x *= 10;
-        int curMax=trailing9(tmp);
-        if (n - tmp <= d and curMax>mx){
-            ans = tmp;
-            mx=curMax;
-        }
+    int n; cin>>n;
+    ll f[n+10];
+    f[0]=0;
+    // ! Prepare 1^2^.....^n;
+    for(int i=1;i<=n;i++){
+        f[i]=(f[i-1]^i);
     }
-    cout << ans << el;
+    ll ans=0;
+    for(int i=1;i<=n;i++){
+        int a; cin>>a;
+       ans^=a;
+    }
+    for(int i=2;i<=n;i++){
+        
+        int cycles=n/i;
+        if(cycles &1)
+            ans^=f[i-1];
+        // 1 2 3 4 5 6 [7] [8 9 10--> Replace 1 2 3]
+        ans^=f[n%i];
+    }
+    cout<<ans;
+
 }
 int main() {
     judge();
