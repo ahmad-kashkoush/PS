@@ -1,3 +1,6 @@
+//
+// Created by ak on 8/17/23.
+//
 #include<bits/stdc++.h>
 #define el '\n'
 #define ll long long
@@ -10,19 +13,31 @@ void judge();
 const int mod = 1e9 + 7, OO = 2 * 1e9;
 const double pi = 3.1415926535897932384;
 void solve(){
-    int n, c, d;cin>>n>>c>>d;
-    vector<int> a;
-    set<int> st;
-    ll ans=0;
-    for(int i=0;i<n;i++){
-        int x;cin>>x;
-        if(st.count(x))
-            ans+=c;
-        else a.push_back(x);
-        st.emplace(x);
+    int n; cin>>n;
+//    string s="1";
+    map<int, string> bs;
+    queue<pair<int, string>> q;
+    vector<int> vis(n+10, 0);
+    bs[1]="1";
+    q.emplace(1, "1");
+    vis[1]=true;
+    while(!q.empty()){
+        int rem=q.front().first;
+        string st=q.front().second;
+        q.pop();
+        if(rem==0)return void(cout<<st);
+        int rem1=(10*rem)%n;
+        if(!vis[rem1]){
+            q.emplace(rem1, st+"0");
+            vis[rem1]=true;
+        }
+        int rem2=(10*rem +1)%n;
+        if(!vis[rem2]){
+            q.emplace(rem2, st+"1");
+            vis[rem2]=true;
+        }
     }
-    sort(all(a));
-    cout<<rec(a, 0, )
+        
 }
 int main() {
     judge();
@@ -30,6 +45,7 @@ int main() {
     cin>>t;
     while(t--){
         solve();
+        cout<<el;
     }
 
     return 0;

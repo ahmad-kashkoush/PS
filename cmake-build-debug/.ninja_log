@@ -1,0 +1,27 @@
+# ninja log v5
+0	1497	1692349933388672900	CMakeFiles/PS.dir/codeforces/B._Simple_Game.cpp.o	eb2ef016cc9852be
+1	1604	1691587613780299500	CMakeFiles/PS.dir/Graph/B._Mike_and_Shortcuts.cpp.o	dc42b7fd4980643
+1	1862	1692190596422761700	CMakeFiles/PS.dir/Graph/E._Shortest_Path.cpp.o	34f6d3fc58faff8c
+0	1389	1691531863904129600	CMakeFiles/PS.dir/codeforces/C._Gerald's_Hexagon_.cpp.o	2a4e827a4b3f0460
+0	1759	1692278068620596700	CMakeFiles/PS.dir/Graph/F_-_Ones_and_zeros_SPOJ_-_ONEZERO_.cpp.o	541d2dbd7b5dedbf
+0	1558	1692350350149451000	CMakeFiles/PS.dir/codeforces/B._Prime_Matrix.cpp.o	f035a3083f3bd6af
+1558	1630	1692350350220308600	PS	28c81671b129b2f3
+1	1506	1692245783766287800	CMakeFiles/PS.dir/codeforces/B._The_Walkway_.cpp.o	872907f421908346
+1	1578	1691495078235396900	CMakeFiles/PS.dir/Graph/A._The_Two_Routes.cpp.o	48ec044a8ad8a651
+1	1388	1692347790803880600	CMakeFiles/PS.dir/codeforces/B._Jzzhu_and_Sequences.cpp.o	42cbbc82fbf15aa6
+1	1428	1691501074783580200	CMakeFiles/PS.dir/codeforces/C._Pythagorean_Triples.cpp.o	d42e935e39a39521
+0	1533	1691593115825962700	CMakeFiles/PS.dir/codeforces/C._Points_on_Line.cpp.o	47f1b3475bb4ac08
+1	1529	1691603549570453200	CMakeFiles/PS.dir/codeforces/C._Find_Maximum.cpp.o	d559302860404d47
+1	13	1691494127914794900	CMakeFiles/PS.dir/main.cpp.o	1d2ec7e10b86c6e8
+0	1499	1692359382275535100	CMakeFiles/PS.dir/codeforces/C._Maze.cpp.o	8117944aba348d7c
+1507	1579	1692359382355525200	PS	39349a83cdd1b0b
+1	1418	1692359386462718800	CMakeFiles/PS.dir/codeforces/C._Maze.cpp.o	8117944aba348d7c
+1419	1476	1692359386519541900	PS	39349a83cdd1b0b
+1	1404	1692359408814550800	CMakeFiles/PS.dir/codeforces/C._Maze.cpp.o	8117944aba348d7c
+1404	1462	1692359408871617100	PS	39349a83cdd1b0b
+1	1511	1692359561109779500	CMakeFiles/PS.dir/codeforces/C._Maze.cpp.o	8117944aba348d7c
+1511	1565	1692359561164059600	PS	39349a83cdd1b0b
+1	1420	1692359662971296900	CMakeFiles/PS.dir/codeforces/C._Maze.cpp.o	8117944aba348d7c
+1420	1478	1692359663029451900	PS	39349a83cdd1b0b
+0	1408	1692359707089437200	CMakeFiles/PS.dir/codeforces/C._Maze.cpp.o	8117944aba348d7c
+1408	1475	1692359707155227700	PS	39349a83cdd1b0b

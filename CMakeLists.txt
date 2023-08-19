@@ -3,4 +3,4 @@ project(PS)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(PS main.cpp  Graph/A._The_Two_Routes.cpp)
+add_executable(PS   "codeforces/C. Maze.cpp")
