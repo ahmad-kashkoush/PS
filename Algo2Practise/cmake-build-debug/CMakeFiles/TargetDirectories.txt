@@ -1,0 +1,3 @@
+/home/ahmed-kashkoush/Desktop/Technical Learning/CPPPractise Folder/Algo2Practise/cmake-build-debug/CMakeFiles/Algo2Practise.dir
+/home/ahmed-kashkoush/Desktop/Technical Learning/CPPPractise Folder/Algo2Practise/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ahmed-kashkoush/Desktop/Technical Learning/CPPPractise Folder/Algo2Practise/cmake-build-debug/CMakeFiles/rebuild_cache.dir

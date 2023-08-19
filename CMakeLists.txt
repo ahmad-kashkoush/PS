@@ -3,4 +3,4 @@ project(PS)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(PS   "codeforces/C. Maze.cpp")
+add_executable(PS "Graph/E - Escape from Jail Again SPOJ - ESCJAILA .cpp")
