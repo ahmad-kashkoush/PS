@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/media/ak/sda1/D/Learning/1.Programming/1.CS_Fundamentals/coding Practise/PS/cmake-build-debug"
+			"value" : "/mnt/Media/D/Learning/1.Programming/1.Fundamentals/coding Practise/PS/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -543,7 +543,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/media/ak/sda1/D/Learning/1.Programming/1.CS_Fundamentals/coding Practise/PS/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/mnt/Media/D/Learning/1.Programming/1.Fundamentals/coding Practise/PS/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -603,7 +603,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/media/ak/sda1/D/Learning/1.Programming/1.CS_Fundamentals/coding Practise/PS"
+			"value" : "/mnt/Media/D/Learning/1.Programming/1.Fundamentals/coding Practise/PS"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1135,7 +1135,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/media/ak/sda1/D/Learning/1.Programming/1.CS_Fundamentals/coding Practise/PS/cmake-build-debug"
+			"value" : "/mnt/Media/D/Learning/1.Programming/1.Fundamentals/coding Practise/PS/cmake-build-debug"
 		},
 		{
 			"name" : "PS_IS_TOP_LEVEL",
@@ -1159,7 +1159,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/media/ak/sda1/D/Learning/1.Programming/1.CS_Fundamentals/coding Practise/PS"
+			"value" : "/mnt/Media/D/Learning/1.Programming/1.Fundamentals/coding Practise/PS"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

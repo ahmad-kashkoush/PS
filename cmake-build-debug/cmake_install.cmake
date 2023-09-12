@@ -1,4 +1,4 @@
-# Install script for directory: /media/ak/sda1/D/Learning/1.Programming/1.CS_Fundamentals/coding Practise/PS
+# Install script for directory: /mnt/Media/D/Learning/1.Programming/1.Fundamentals/coding Practise/PS
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/media/ak/sda1/D/Learning/1.Programming/1.CS_Fundamentals/coding Practise/PS/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/mnt/Media/D/Learning/1.Programming/1.Fundamentals/coding Practise/PS/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

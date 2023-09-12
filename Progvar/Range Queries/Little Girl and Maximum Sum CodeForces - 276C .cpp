@@ -1,0 +1,76 @@
+//
+// Created by ak on 9/2/23.
+//
+#include<bits/stdc++.h>
+#define el '\n'
+#define ll long long
+#define reset(v, d) memset(v, d , sizeof(v))
+#define all(s)  s.begin(), s.end()
+#define cin(v)  for(auto &i:v)cin>>i
+#define cout(v) for(auto i:v)cout<<i<<" "
+using namespace std;
+void judge();
+const int mod = 1e9 + 7, OO = 2 * 1e9;
+const double pi = 3.1415926535897932384;
+void solve(){
+    int n, q; cin>>n>>q;
+    vector<ll> init(n);
+    cin(init);
+    sort(init.rbegin(), init.rend());
+    vector<int> ids(n+1, 0);
+    vector<pair<int, int>> queries(q);
+    int qid=0;
+    while(q--){
+        int l, r; cin>>l>>r;
+        l--, r--;
+        queries[qid]={l, r};
+        qid++;
+        ids[l]++;
+        ids[r+1]--;
+    }
+    priority_queue<pair<ll, int>> pq;//freq, id;
+    pq.emplace(ids[0], 0);
+     for(int i=1;i<n;i++){
+         ids[i]+=ids[i-1];
+         pq.emplace(ids[i], i);
+     }
+     vector<int> arrv2(n);
+     for(int i=0;i<n;i++){
+         arrv2[pq.top().second]=init[i];
+         pq.pop();
+     }
+    ll pre[n+1];
+     pre[0]=arrv2[0];
+     for(int i=1;i<n;i++){
+         pre[i]=pre[i-1]+arrv2[i];
+     }
+     ll sum=0;
+     for(auto [l, r]:queries){
+         if(l==0)sum+=pre[r];
+        else sum+=pre[r]-pre[l-1];
+
+     }
+    cout<<sum;
+
+}
+int main() {
+    judge();
+    int t=1;
+//    cin>>t;
+    while(t--){
+        solve();
+    }
+
+    return 0;
+}
+
+void judge() {
+    ios::sync_with_stdio(0);
+    cin.tie(NULL);
+    cout.tie(0);
+#ifndef ONLINE_JUDGE
+    freopen("input.txt", "r", stdin);
+    freopen("output.txt", "w", stdout);
+    freopen("error.txt", "w", stderr);
+#endif
+}

@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/media/ak/sda1/D/Learning/1.Programming/1.CS_Fundamentals/coding Practise/PS/cmake-build-debug",
-		"source" : "/media/ak/sda1/D/Learning/1.Programming/1.CS_Fundamentals/coding Practise/PS"
+		"build" : "/mnt/Media/D/Learning/1.Programming/1.Fundamentals/coding Practise/PS/cmake-build-debug",
+		"source" : "/mnt/Media/D/Learning/1.Programming/1.Fundamentals/coding Practise/PS"
 	},
 	"version" : 
 	{
