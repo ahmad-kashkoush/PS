@@ -1,0 +1,69 @@
+//
+// Created by ahmedkashkoush on 10/11/23.
+//
+#include<bits/stdc++.h>
+#define el '\n'
+#define ll long long
+#define reset(v, d) memset(v, d , sizeof(v))
+#define all(s)  s.begin(), s.end()
+#define l first
+#define r second
+#define cin(v)  for(auto &i:v)cin>>i
+#define cout(v) for(auto i:v)cout<<i<<" "
+using namespace std;
+void judge();
+const int mod = 1e9 + 7, OO = 2 * 1e9;
+const double pi = 3.1415926535897932384;
+
+void solve(){
+    int n; cin>>n;
+    string s; cin>>s;
+    vector<pair<int, int>> v(n+2, make_pair(-1, -1));
+    for(int i=0;i<s.size();i++){
+        int ele=i+1;
+        if(s[i]=='L'){
+            v[ele].l=v[i].l;
+            v[ele].r=i;
+            v[i].l=ele;
+            if(v[ele].l!=-1)
+                v[v[ele].l].r=ele;
+        }else {
+            v[ele].r=v[i].r;
+            v[ele].l=i;
+            v[i].r=ele;
+            if(v[ele].r!=-1)
+                v[v[ele].r].l=ele;
+        }
+    }
+    int start=-1;
+    for(int i=0;i<=n;i++){
+        if(v[i].l==-1)start=i;
+    }
+    while(start!=-1){
+        cout<<start<<" ";
+        start=v[start].r;
+    }
+
+}
+int main() {
+    judge();
+    int t=1;
+//    cin>>t;
+    while(t--){
+        solve();
+    }
+
+    return 0;
+}
+
+void judge() {
+    ios::sync_with_stdio(0);
+    cin.tie(NULL);
+    cout.tie(0);
+#ifndef ONLINE_JUDGE
+    freopen("input.txt", "r", stdin);
+    freopen("output.txt", "w", stdout);
+    freopen("error.txt", "w", stderr);
+#endif
+}
+
