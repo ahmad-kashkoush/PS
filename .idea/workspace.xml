@@ -22,36 +22,21 @@
   <component name="ChangeListManager">
     <list default="true" id="00431215-9181-44ca-bb37-69d8abf60a1c" name="Changes" comment="add all">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo Part 1 MS/BFS/Problem#1_Print_Path.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algo Part 1 MS/BFS/Problem#1_Print_Path.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo2Practise/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Algo2Practise/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo2Practise/.idea/Algo2Practise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algo2Practise/.idea/Algo2Practise.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo2Practise/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algo2Practise/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo2Practise/MCM.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algo2Practise/MCM.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-b2456b694516551c4ef7.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-2052f6e6acee8f513bd1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-018283f94cecf7bccff9.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-08-19T20-27-55-0064.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Progvar/Data Structures: Lists, Stacks, Queues/C. Minimal string .cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Progvar/Data Structures: Lists, Stacks, Queues/C. Minimal string .cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-8c7ae2af3f91fbec1ede.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-d4e150fd77f2035023e3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-09-12T11-52-09-0340.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-PS-Debug-45aac40732e5b7c4fb3c.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PS.dir/Graph/E_-_Escape_from_Jail_Again_SPOJ_-_ESCJAILA_.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/PS" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/PS" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/A._Odd_Set.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/A._Odd_Set.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/B._Letters_Shop.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/B._Letters_Shop.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/B._Letters_Shopp.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/B._Letters_Shopp.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/B._Plus_from_Picture.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/B._Plus_from_Picture.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/B._WOW_Factor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/B._WOW_Factor.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/B._Yet_Another_Crosses_Problem.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/B._Yet_Another_Crosses_Problem.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/C._From_S_To_T.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/C._From_S_To_T.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/C._Lose_it!.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/C._Lose_it!.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/C._Swap_Game_.exe" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/C._Swap_Game_.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lablabla.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lablabla.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,17 +71,22 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/media/ak/sda1/D/Learning/1.Programming/1.CS_Fundamentals/coding Practise/PS&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/ahmedkashkoush/Desktop/cv Project/Ask-Me&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.externalTools&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
     &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Progvar" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="PS" type="CMakeRunConfiguration" factoryName="Application" activateToolWindowBeforeRun="false" PROGRAM_PARAMS="input.txt output.txt error.txt" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PS" TARGET_NAME="PS" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PS" RUN_TARGET_NAME="PS">
       <method v="2">
@@ -124,6 +114,50 @@
       <workItem from="1692438390085" duration="940000" />
       <workItem from="1692476797054" duration="3826000" />
       <workItem from="1694519554548" duration="19000" />
+      <workItem from="1694522479583" duration="2646000" />
+      <workItem from="1694596726831" duration="45000" />
+      <workItem from="1694783290082" duration="1466000" />
+      <workItem from="1695069558065" duration="598000" />
+      <workItem from="1695146205028" duration="769000" />
+      <workItem from="1695185716179" duration="7373000" />
+      <workItem from="1695275500313" duration="6978000" />
+      <workItem from="1695307104112" duration="2000" />
+      <workItem from="1695551185388" duration="5384000" />
+      <workItem from="1695637899322" duration="3167000" />
+      <workItem from="1695729753247" duration="3551000" />
+      <workItem from="1695738862209" duration="36000" />
+      <workItem from="1695786376952" duration="937000" />
+      <workItem from="1695788550380" duration="5000" />
+      <workItem from="1695789272631" duration="3000" />
+      <workItem from="1695789549820" duration="612000" />
+      <workItem from="1695977347311" duration="3272000" />
+      <workItem from="1696084314787" duration="30000" />
+      <workItem from="1696230972267" duration="4273000" />
+      <workItem from="1696323847353" duration="3000" />
+      <workItem from="1696415553869" duration="5023000" />
+      <workItem from="1696496805386" duration="4219000" />
+      <workItem from="1696536320430" duration="8000" />
+      <workItem from="1696594426941" duration="2371000" />
+      <workItem from="1696861301435" duration="7000" />
+      <workItem from="1697029233526" duration="2083000" />
+      <workItem from="1697101819834" duration="648000" />
+      <workItem from="1697119341706" duration="182000" />
+      <workItem from="1697156666738" duration="2336000" />
+      <workItem from="1697182229580" duration="2000" />
+      <workItem from="1697198149236" duration="3293000" />
+      <workItem from="1697283214759" duration="5368000" />
+      <workItem from="1697294458431" duration="63000" />
+      <workItem from="1697458601291" duration="9873000" />
+      <workItem from="1697899518874" duration="2787000" />
+      <workItem from="1698319425078" duration="5425000" />
+      <workItem from="1698341657683" duration="1120000" />
+      <workItem from="1698383520931" duration="4354000" />
+      <workItem from="1698394622301" duration="1990000" />
+      <workItem from="1698508582812" duration="602000" />
+      <workItem from="1698702638220" duration="57000" />
+      <workItem from="1698761700283" duration="11448000" />
+      <workItem from="1698941843182" duration="6126000" />
+      <workItem from="1699010579615" duration="7189000" />
     </task>
     <task id="LOCAL-00001" summary="add all">
       <created>1691491512112</created>
