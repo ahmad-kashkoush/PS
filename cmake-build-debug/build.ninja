@@ -49,11 +49,11 @@ cmake_ninja_workdir = /mnt/Media/D/Learning/1.Programming/1.Fundamentals/coding$
 
 build cmake_object_order_depends_target_PS: phony || CMakeFiles/PS.dir
 
-build CMakeFiles/PS.dir/lablabla.cpp.o: CXX_COMPILER__PS_Debug /mnt/Media/D/Learning/1.Programming/1.Fundamentals/coding$ Practise/PS/lablabla.cpp || cmake_object_order_depends_target_PS
-  DEP_FILE = CMakeFiles/PS.dir/lablabla.cpp.o.d
+build CMakeFiles/PS.dir/Gallen_collin_Graph_Stream/A._New_Year_Transportation.cpp.o: CXX_COMPILER__PS_Debug /mnt/Media/D/Learning/1.Programming/1.Fundamentals/coding$ Practise/PS/Gallen_collin_Graph_Stream/A.$ New$ Year$ Transportation.cpp || cmake_object_order_depends_target_PS
+  DEP_FILE = CMakeFiles/PS.dir/Gallen_collin_Graph_Stream/A._New_Year_Transportation.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/PS.dir
-  OBJECT_FILE_DIR = CMakeFiles/PS.dir
+  OBJECT_FILE_DIR = CMakeFiles/PS.dir/Gallen_collin_Graph_Stream
 
 
 # =============================================================================
@@ -63,7 +63,7 @@ build CMakeFiles/PS.dir/lablabla.cpp.o: CXX_COMPILER__PS_Debug /mnt/Media/D/Lear
 #############################################
 # Link the executable PS
 
-build PS: CXX_EXECUTABLE_LINKER__PS_Debug CMakeFiles/PS.dir/lablabla.cpp.o
+build PS: CXX_EXECUTABLE_LINKER__PS_Debug CMakeFiles/PS.dir/Gallen_collin_Graph_Stream/A._New_Year_Transportation.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/PS.dir
   POST_BUILD = :

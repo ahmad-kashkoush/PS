@@ -23,20 +23,16 @@
     <list default="true" id="00431215-9181-44ca-bb37-69d8abf60a1c" name="Changes" comment="add all">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Progvar/Data Structures: Lists, Stacks, Queues/C. Minimal string .cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Progvar/Data Structures: Lists, Stacks, Queues/C. Minimal string .cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-8c7ae2af3f91fbec1ede.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-d4e150fd77f2035023e3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-09-12T11-52-09-0340.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-PS-Debug-45aac40732e5b7c4fb3c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-68b26ba7d631e7f63587.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-10-30T21-51-22-0800.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-PS-Debug-8a214790059f1dc25823.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/PS" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/PS" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lablabla.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lablabla.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +84,11 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PS" type="CMakeRunConfiguration" factoryName="Application" activateToolWindowBeforeRun="false" PROGRAM_PARAMS="input.txt output.txt error.txt" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PS" TARGET_NAME="PS" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PS" RUN_TARGET_NAME="PS">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -157,7 +158,7 @@
       <workItem from="1698702638220" duration="57000" />
       <workItem from="1698761700283" duration="11448000" />
       <workItem from="1698941843182" duration="6126000" />
-      <workItem from="1699010579615" duration="7189000" />
+      <workItem from="1699010579615" duration="11097000" />
     </task>
     <task id="LOCAL-00001" summary="add all">
       <created>1691491512112</created>

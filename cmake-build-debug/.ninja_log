@@ -1,5 +1,5 @@
 # ninja log v5
-1	1409	1699019811014535200	CMakeFiles/PS.dir/lablabla.cpp.o	316170aa6b3e0841
+0	1435	1699019851763212700	CMakeFiles/PS.dir/lablabla.cpp.o	316170aa6b3e0841
 1	1473	1698342550773296800	CMakeFiles/PS.dir/Progvar/Binary_Search/CF702C_-_Cellular_Network.cpp.o	3493bee982d73f9
 0	1432	1695188616164759200	CMakeFiles/PS.dir/Progvar/countingRules/B._Rectangles.cpp.o	5ee2adaab10ac15a
 1	1764	1697460709252139300	CMakeFiles/PS.dir/Progvar/Priority_Queues,_Sets,_maps,/A._Bear_and_Displayed_Friends.cpp.o	266ef5fb06f83a95
@@ -14,10 +14,11 @@
 1	1436	1694784148685338000	CMakeFiles/PS.dir/Progvar/countingRules/Bit_Strings.cpp.o	57c091e530f37c68
 1	1446	1695187411745371100	CMakeFiles/PS.dir/Progvar/countingRules/C._The_Fair_Nut_and_String_.cpp.o	7ed4d7ca779f9a86
 1	1551	1697158397975681700	CMakeFiles/PS.dir/Progvar/Data_Structures__Lists,_Stacks,_Queues/C._Okabe_and_Boxes.cpp.o	fb7b071808ad6407
-1410	1481	1699019811085793300	PS	5de2be0516058735
-1	25	1698702682789324700	build.ninja	9d95461f06a2ddec
+1400	1483	1699021721774641800	PS	511374394faf8c74
+1	25	1699026654322687300	build.ninja	9d95461f06a2ddec
 1	1464	1695639472783397500	CMakeFiles/PS.dir/Progvar/Complete_Search__Iterative/A._Flipping_Game.cpp.o	e420bbf63fd4afca
 0	1841	1697459561876707300	CMakeFiles/PS.dir/Progvar/Priority_Queues,_Sets,_maps,/C_-_Write_and_Erase.cpp.o	70ba3432fe4a3ba9
+1	1400	1699021721693482100	CMakeFiles/PS.dir/Gallen_collin_Graph_Stream/A._New_Year_Transportation.cpp.o	33c619a3e749a8ec
 0	1668	1697472889971213800	CMakeFiles/PS.dir/Progvar/Priority_Queues,_Sets,_maps,/D_-_Snuke's_Coloring.cpp.o	82afe24db1ee5a16
 0	1409	1695281525827621300	CMakeFiles/PS.dir/CSES/Introductory_Problems/Increasing_Array.cpp.o	f17a46c34b0175dc
 1	1394	1695280930306279700	CMakeFiles/PS.dir/CSES/Introductory_Problems/Repetitions.cpp.o	178b02e55d10823e
@@ -49,7 +50,3 @@
 0	1590	1697032075780038200	CMakeFiles/PS.dir/Progvar/Data_Structures__Lists,_Stacks,_Queues/D_-_LR_insertion_.cpp.o	f1f46d594c99cb67
 0	1544	1698322095552696600	CMakeFiles/PS.dir/Progvar/Sorting_with_Custom_Comparators/CF405A_-_Gravity_Flip.cpp.o	dccefb4cd2014d8a
 0	1667	1697458804477384300	CMakeFiles/PS.dir/Progvar/Priority_Queues,_Sets,_maps,/ABC164_C_-_gacha.cpp.o	8251f5fdf9383d8a
-0	1462	1699019839837219700	CMakeFiles/PS.dir/lablabla.cpp.o	316170aa6b3e0841
-1462	1533	1699019839907648000	PS	5de2be0516058735
-0	1435	1699019851763212700	CMakeFiles/PS.dir/lablabla.cpp.o	316170aa6b3e0841
-1435	1504	1699019851832429600	PS	5de2be0516058735
